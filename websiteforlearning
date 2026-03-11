@@ -1,0 +1,126 @@
+{
+  "classes": [
+    "Nursery",
+    "Prep",
+    "Class 1",
+    "Class 2",
+    "Class 3",
+    "Class 4",
+    "Class 5",
+    "Class 6",
+    "Class 7",
+    "Class 8",
+    "Class 9",
+    "Class 10",
+    "Class 11",
+    "Class 12"
+  ],
+
+  "niches": [
+    {
+      "name": "School Subjects",
+      "subjects": [
+        {
+          "name": "Physics",
+          "classVideos": {
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""],
+            "Class 11": ["", "", "", "", ""],
+            "Class 12": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Biology",
+          "classVideos": {
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""],
+            "Class 11": ["", "", "", "", ""],
+            "Class 12": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Chemistry",
+          "classVideos": {
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""],
+            "Class 11": ["", "", "", "", ""],
+            "Class 12": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Math",
+          "classVideos": {
+            "Class 1": ["", "", "", "", ""],
+            "Class 2": ["", "", "", "", ""],
+            "Class 3": ["", "", "", "", ""],
+            "Class 4": ["", "", "", "", ""],
+            "Class 5": ["", "", "", "", ""],
+            "Class 6": ["", "", "", "", ""],
+            "Class 7": ["", "", "", "", ""],
+            "Class 8": ["", "", "", "", ""],
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "English",
+          "classVideos": {
+            "Nursery": ["", "", "", "", ""],
+            "Prep": ["", "", "", "", ""],
+            "Class 1": ["", "", "", "", ""],
+            "Class 2": ["", "", "", "", ""],
+            "Class 3": ["", "", "", "", ""],
+            "Class 4": ["", "", "", "", ""],
+            "Class 5": ["", "", "", "", ""],
+            "Class 6": ["", "", "", "", ""],
+            "Class 7": ["", "", "", "", ""],
+            "Class 8": ["", "", "", "", ""],
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Computer Science",
+          "classVideos": {
+            "Class 9": ["", "", "", "", ""],
+            "Class 10": ["", "", "", "", ""],
+            "Class 11": ["", "", "", "", ""],
+            "Class 12": ["", "", "", "", ""]
+          }
+        }
+      ]
+    },
+
+    {
+      "name": "Technology",
+      "subjects": [
+        {
+          "name": "Web Development",
+          "classVideos": {
+            "Beginner": ["", "", "", "", ""],
+            "Intermediate": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Mobile App Development",
+          "classVideos": {
+            "Beginner": ["", "", "", "", ""]
+          }
+        },
+
+        {
+          "name": "Artificial Intelligence",
+          "classVideos": {
+            "Beginner": ["", "", "", "", ""]
+          }
+        }
+      ]
+    }
+  ]
+}
